@@ -1,0 +1,15 @@
+
+show create database 库名;
+select database();
+drop database test;
+tinyblob
+tinytext 短文本字符串
+text 长文本数据(非二进制)
+tinyblob 不超过255个字符的二进制字符串
+blob 长文本数据(二进制)
+show tables;
+show create table 表名
+desc 表名
+插入/查询/where/
+alter table 表名 drop 字段名;
+

@@ -1,0 +1,22 @@
+http://blog.sina.com.cn/s/blog_4849ab100100bsgr.html
+
+http://sc.exam100.net/html/2018/wxl_1205/6884.html
+
+官网下载
+PHPstudy官网下载
+添加环境变量:
+  设置 - 文件位置 - bin - 右键 -将地址复制为文本 - 
+
+面试问题:
+	MySQL常用引擎:innodb,myisam
+	各个引擎的特性
+	事物的四大特性(sid)
+	增删改查(crud)
+	dml,dcl,dql,ddl的概念
+	python的bif(内建函数)
+	数据库优化,范式
+	OSI七层模型介绍一下，tcp/ip模型是什么？
+	tcp服务和udp服务有什么区别？
+	三次握手和四次挥手指什么，过程是怎样的？
+
+
