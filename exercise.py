@@ -15,4 +15,3 @@ for line in fo:
         break
 else:
     print("没有该单词")
-print("修改示例")
